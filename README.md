@@ -45,5 +45,3 @@ The project was implemented using:
 ## Conclusion
 
 This project demonstrates how **data analytics techniques can be applied to insurance portfolio analysis** to evaluate profitability, assess risk exposure, and estimate future financial liabilities.
-
-## Repository Structure
